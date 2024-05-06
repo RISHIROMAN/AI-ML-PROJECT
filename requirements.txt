@@ -1,0 +1,5 @@
+TensorFlow
+NumPy
+Pandas
+Scikit-learn
+Stellargraph == 1.2.1
